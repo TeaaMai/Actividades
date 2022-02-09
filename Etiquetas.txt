@@ -21,13 +21,13 @@ Etiquetas de contenido
 <figure> Establece una figura ilustrada como parte del documento.
 <figcaption> Representa la leyenda de una figura.
 <div> Representa un contenedor genérico sin ningún significado especial.
-<em> Fragmento de texto enfatizado respecto a la frase que lo contiene.
-<mark> Fragmento de texto resaltado, simulando estar marcado con rotulador amarillo.
-<i>	Fragmento de texto con voz o tono alternativo al resto.
-<b>	Fragmento de texto sin importancia destacable.
-<u>	Fragmento de texto para nombres propios o escritura incorrecta intencionada.
-<s>	Fragmento de texto inexacto o que ya no es relevante. (errores o inexactitudes).
-<cite> Fragmento de texto con el título de un trabajo creativo: obras, libros.
+<em>Fragmento de texto enfatizado respecto a la frase que lo contiene.
+<mark>Fragmento de texto resaltado, simulando estar marcado con rotulador amarillo.
+<i>Fragmento de texto con voz o tono alternativo al resto.
+<b>Fragmento de texto sin importancia destacable.
+<u>Fragmento de texto para nombres propios o escritura incorrecta intencionada.
+<s>Fragmento de texto inexacto o que ya no es relevante. (errores o inexactitudes).
+<cite>Fragmento de texto con el título de un trabajo creativo: obras, libros.
 <sup> Superíndice (242).
 <sub> Subíndice (242).
 <small>	Anotaciones menores pequeñas puntualizaciones.

@@ -1,0 +1,72 @@
+h1{
+    color: #39a3a3;
+    text-align: center;
+    margin: 1rem auto;
+    width: 40%;
+}
+
+p{
+    width: 60%;
+    color: black;
+}
+
+.ama{
+    color: aqua;
+}
+
+.font-size-50{
+    font-size: 30px;
+}
+
+.izquierda{
+    width: 50%;
+}
+
+.derecha{
+    width: 22%;
+    border: 1px solid black;
+}
+
+#pantalla-dividida{
+    display: flex;
+}
+
+.p-100{
+    width: 100%;
+}
+
+.p-50{
+    width: 40%;
+}
+
+.caf{
+    color: brown;
+}
+
+.az{
+    color: blue;
+}
+
+.ver{
+    color: green;
+}
+
+.roj{
+    color: red;
+}
+
+.ama{
+    color: yellow;
+}
+
+.mor{
+    color: darkorchid;
+}
+
+.osc{
+    color: darkmagenta;
+}
+
+.alinear-der{
+    text-align: right;
+}

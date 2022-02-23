@@ -19,7 +19,7 @@
 }
 
 .sencilla caption{
-    border: 0.25px solid gray;
+    border: 1px solid gray;
 }
 
 .col td{
@@ -28,7 +28,7 @@
 }
 
 .col th{
-    border: 1px solid;
+    border: 1px solid black;
 }
   
 .col {
@@ -38,5 +38,28 @@
 }
 
 .col caption{
-    border: 0.25px solid gray;
+    border: 1px solid gray;
+}
+
+.ren td{
+    border: 1px solid;
+    text-align: center;
+}
+
+.ren th{
+    border: 1px solid;
+}
+  
+.ren {
+    border-collapse: collapse;
+    margin: auto;
+    width: 50%;
+}
+
+.ren caption{
+    border: 1px solid gray;
+}
+
+.roj{
+    color: red;
 }

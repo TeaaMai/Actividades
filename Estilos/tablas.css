@@ -82,3 +82,11 @@
 .dif caption{
     border: 1px solid gray;
 }
+
+.gri{
+    background-color: gray;
+}
+
+.gric{
+    background-color: rgb(201, 201, 201);
+}

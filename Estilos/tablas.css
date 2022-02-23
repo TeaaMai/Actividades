@@ -63,3 +63,22 @@
 .roj{
     color: red;
 }
+
+.dif td{
+    border: 1px solid;
+    text-align: center;
+}
+
+.dif th{
+    border: 1px solid;
+}
+  
+.dif {
+    border-collapse: collapse;
+    margin: auto;
+    width: 50%;
+}
+
+.dif caption{
+    border: 1px solid gray;
+}

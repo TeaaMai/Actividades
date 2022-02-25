@@ -90,3 +90,7 @@
 .gric{
     background-color: rgb(201, 201, 201);
 }
+
+.rotado{
+    transform: rotate(-10deg);
+}
